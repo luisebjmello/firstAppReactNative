@@ -43,7 +43,7 @@ class DetailsScreen extends React.Component {
         <Text style={styles.descricao}>Nome: Luise Brito Jansen de Mello</Text>
 <Text style={styles.descricao}>Matricula: 0050014552</Text>
 <Text style={styles.descricao}>
-https://github.com/luisebjmello/firstAppReactNative.git
+https://github.com/luisebjmello/myFirstAppReactNative.git
 </Text>
         <Button
           title="Voltar"

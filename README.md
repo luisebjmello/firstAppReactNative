@@ -1,2 +1,1 @@
-# firstAppReactNative
-AV1 - IPI 1
+# myapp-reactivenative
